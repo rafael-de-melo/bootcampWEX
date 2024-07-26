@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\bin\Debug\net8.0\bootcampWEX.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\bin\Debug\net8.0\bootcampWEX.deps.json
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\bin\Debug\net8.0\bootcampWEX.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\bin\Debug\net8.0\bootcampWEX.dll
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\bin\Debug\net8.0\bootcampWEX.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\bootcampWEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\bootcampWEX.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\bootcampWEX.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\bootcampWEX.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\bootcampWEX.sourcelink.json
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\bootcampWEX.dll
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\refint\bootcampWEX.dll
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\bootcampWEX.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\bootcampWEX.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\ref\bootcampWEX.dll
