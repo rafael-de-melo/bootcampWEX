@@ -13,3 +13,6 @@ C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\refint\bo
 C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\bootcampWEX.pdb
 C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\bootcampWEX.genruntimeconfig.cache
 C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\ref\bootcampWEX.dll
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\bootcampWEX.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\bootcampWEX\obj\Debug\net8.0\bootcamp.E2A34CE6.Up2Date

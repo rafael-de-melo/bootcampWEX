@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bootcampWEX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f14664941797516206b7e65915515901201db9bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df477c41d176ce9d7889f6fbe63e1d4c96b21de1")]
 [assembly: System.Reflection.AssemblyProductAttribute("bootcampWEX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bootcampWEX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
