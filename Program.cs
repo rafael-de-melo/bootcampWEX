@@ -5,6 +5,7 @@ Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 
 Console.WriteLine("1 - Sistema de Hospedagem");
+Console.WriteLine("2 - Sistema Celular com Abstração");
 Console.WriteLine("exit - Encerrar programa");
 string comando = Console.ReadLine().Trim().ToLower();
 
@@ -35,6 +36,19 @@ switch (comando)
 
         break;
     
+    case "2":
+        Console.WriteLine("Smartphone Nokia:");
+        Smartphone nokia = new Nokia(numero: "123456", modelo: "Modelo 1", imei: "11111111", memoria: 64);
+        Smartphone iphone = new Iphone(numero: "654321", modelo: "Modelo 2", imei: "22222222", memoria: 128);
+
+        nokia.Ligar();
+        nokia.InstalarAplicativo("Linkedin\n");
+
+        iphone.Ligar();
+        iphone.InstalarAplicativo("Github Mobile");
+
+        break;
+
     case "exit":
         Console.WriteLine("O programa foi encerrado.");
         break;
