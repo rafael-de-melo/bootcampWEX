@@ -1,0 +1,29 @@
+1. COMEÇAR
+- Criar item
+- Ir para TO DO (Item será trabalhado)
+
+2. TO DO
+- Inicia o trabalho na sprint
+- Mover para IN DEVELOPMENT
+
+3. IN DEVELOPMENT
+- Subir implementação para validação de QA
+- Ir para QA REVIEW
+
+4. QA REVIEW
+- Se o item for validado, vai para DONE (Item validado e liberado para deploy)
+- Se for encontrado um bug, retorna para TO FIX
+
+5. TO FIX
+- Trabalhar na correção do bug
+- Retornar para IN DEVELOPMENT
+
+6. REOPENED
+- Se o item já validado precisa ser corrigido novamente, ele será reaberto para correção
+- Passar pelo mesmo fluxo de correção, validação e fechamento
+
+7. DONE
+- Item finalizado e pronto para deploy
+
+8. CLOSED
+- Se o item não for mais necessário, ele será fechado e não será mais trabalhado
